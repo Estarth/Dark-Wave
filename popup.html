@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DarkWave</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <div class="toggle-container">
+      <span>🌙 Darkmode</span>
+      <label class="toggle">
+        <input type="checkbox" id="toggleDarkMode">
+        <span class="slider"></span>
+      </label>
+    </div>
+    
+    <div class="slider-container">
+      <label for="intensityRange">Intensity</label>
+      <input type="range" id="intensityRange" min="0" max="100" value="50">
+      <div class="slider-value" id="intensityValue">50%</div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
