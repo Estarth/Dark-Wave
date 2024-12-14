@@ -6,3 +6,8 @@
 - Toggle dark mode on/off.
 - Adjust dark mode intensity with a slider.
 - Works across all websites.
+## Extension Screenshot
+
+Here’s how the **Dark Wave** extension looks in action:
+
+![Extension Screenshot](icons/extension.png)
