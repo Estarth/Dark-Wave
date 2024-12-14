@@ -10,4 +10,4 @@
 
 Here’s how the **Dark Wave** extension looks in action:
 
-![Extension Screenshot](icons/extension.png)
+![Extension Screenshot](icons/extension.jpg)
